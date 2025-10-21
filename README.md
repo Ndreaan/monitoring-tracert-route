@@ -1,5 +1,8 @@
 # monitoring-tracert-route
 
+sudo python3 /usr/local/bin/ping_route_info.py (perintah untuk menjalankan program)
+
+
 #!/usr/bin/env python3
 import subprocess
 import socket
